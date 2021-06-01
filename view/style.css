@@ -1,0 +1,13 @@
+body{
+    background-image: url("garuda.png");
+    background-repeat: no-repeat;
+    background-size:cover
+ }
+ .ab{
+     background-color:rgb(255, 255, 255);
+     width: 30%;
+ }
+ 
+ .aa{
+     background-color:orange;
+ }
